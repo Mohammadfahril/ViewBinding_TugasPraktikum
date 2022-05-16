@@ -5,3 +5,4 @@ GENERATE TOKEN PRIBADI UNTUK MENCOBA, MASUKKAN DI INTERFACE "Api" YANG BERADA DI
 JIKA TIDAK, API-NYA TIDAK AKAN BERJALAN.
 
 dibuat kembali menggunakan bahasa kotlin
+"# ViewBinding_TugasPraktikum" 
